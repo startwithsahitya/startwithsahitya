@@ -46,7 +46,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="40" alt="GIMP" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Spline_Logo.svg" height="40" alt="Spline" />
+  <img src="https://spline.design/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fspline_logo.647803e0.png&w=128&q=75" height="40" alt="Spline" />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg" height="40" alt="DaVinci Resolve" />
   <img width="12" />
@@ -54,7 +54,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Unreal_Engine_Logo.svg" height="40" alt="Unreal Engine" />
+  <img src="https://cms-assets.unrealengine.com/AVzjeqAbLRKi3W5jq0CAvz/qiFQiyH6TiuMdOIA5yZJ" height="40" alt="Unreal Engine" />
 </div>
 
 ---
