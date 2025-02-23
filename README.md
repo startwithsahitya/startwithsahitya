@@ -8,7 +8,7 @@
 
 ###
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
-<p align="left">💻 A programmer with an ardent passion for Full Stack Development<br>🔭 Second year Computer science @ VIT Bhopal<br>🌱 Currently Learning Backend Development</p>
+<p align="left">💻 Passionate in Designing and Detail Oriented<br>🔭 Loves Building Problem Solving Solutions<br>🌱 Currently Building StartwithSmall Community</p>
 
 ###
 
